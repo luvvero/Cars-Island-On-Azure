@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'apps-cars-island-portal'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a721a31fdfb541fbb5297ca72f91a570 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f3429c714c8e4e3e9367a3e0a3504f34 }}
         package: .
